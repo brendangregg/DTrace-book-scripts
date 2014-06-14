@@ -4,7 +4,7 @@ DTrace book scripts
 Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 ISBN-10: 0132091518, ISBN-13: 978-0132091510
 
-This is a copy of the scripts published on http://dtracebook.com.
+This is a copy of the scripts published on http://dtracebook.com, and is a static collection to support the book.
 
 See the book for descriptions of these scripts, examples, and any related warnings.
 
