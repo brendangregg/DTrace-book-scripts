@@ -20,4 +20,4 @@ If you repurpose a script (in the same way that a reader of a textbook might reu
  * Prentice Hall, 2011. ISBN-10: 0132091518. http://dtracebook.com.
 ```
 
-Thanks Mike Harsch for transcribing and testing these scripts.
+Thanks to [Mike Harsch](https://github.com/mharsch) for transcribing and testing these scripts.
